@@ -3,6 +3,3 @@ This project was built in order to become more familiar with the following techn
 -FastAPI <br>
 -PostgreSQL <br>
 -JWT Tokens <br>
--pytest <br>
--Docker <br>
--GitHub Actions <br>
